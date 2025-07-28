@@ -22,6 +22,8 @@
   <img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="30" /
 </h1>
 
+<br>
+<h5>Undergraduate @ SLIIT University</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimna-jayasinha&label=Profile%20views&color=0e75b6&style=flat" alt="nimna-jayasinha" /> </p>
 </p>
